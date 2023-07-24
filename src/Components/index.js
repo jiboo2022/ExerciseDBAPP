@@ -1,0 +1,13 @@
+export {default as Home} from '../Pages/Home';
+export {default as ExerciseDetail} from '../Pages/ExerciseDetail';
+export {default as NavBar} from './NavBar/NavBar';
+export {default as Footer} from './Footer/Footer';
+export {default as HeroBanner} from './HeroBanner/HeroBanner';
+export {default as SearchExercises} from './SearchExercises/SearchExercises';
+export {default as Exercises} from './Exercises/Exercises';
+export {default as HorizontalScrollBar} from './HorizontalScrollBar/HorizontalScrollBar';
+export { default as  BodyParts} from './BodyParts/BodyParts';
+export {default as ExerciseCard} from './ExerciseCard/ExerciseCard';
+export {default as Detail} from './Detail/Detail';
+export {default as ExerciseVideo } from './ExerciseVideo/ExerciseVideo';
+export {default as SimilarExercises} from './SimilarExercises/SimilarExercises';
